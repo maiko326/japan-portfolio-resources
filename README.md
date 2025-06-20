@@ -38,11 +38,11 @@
 
 ### 🎨 UXスキルセット
 ```
-• User Research & Personas     • Usability Testing
+• User Research & Personas    • Usability Testing
 • Wireframing & Prototyping   • Information Architecture  
 • Design Sprints              • User Flows & Journey
 • Design Systems              • Figma, Adobe CC
-• Frontend Development       • vibe coding
+• Frontend Development        • vibe coding (Lovable)
 ```
 
 ### 🚧 継続的学習・成長
