@@ -19,7 +19,7 @@
 ### 💼 実務経験プロジェクト (1点)
 - 💡 **Hackathon Project** - 短期集中での問題解決プロジェクト
 
-### 🚧 現在進行中プロジェクト (2点)    ← 🆕 追加
+### 🚧 現在進行中プロジェクト (2点)  
 - 🍣 **Restaurant Website Redesign** - ミシュラン寿司店サイト（COOP実務）
 - 🍱 **Meal Planning App** - 献立管理アプリ（チーム開発・vibe coding）
 
