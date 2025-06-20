@@ -42,7 +42,7 @@
 • Wireframing & Prototyping   • Information Architecture  
 • Design Sprints              • User Flows & Journey
 • Design Systems              • Figma, Adobe CC
-• Basic Frontend Development  • v0 by Vercel (AI coding)
+• AI-assisted Development     • vibe coding(lovable)
 ```
 
 ### 🚧 継続的学習・成長
