@@ -19,6 +19,10 @@
 ### 💼 実務経験プロジェクト (1点)
 - 💡 **Hackathon Project** - 短期集中での問題解決プロジェクト
 
+### 🚧 現在進行中プロジェクト (2点)    ← 🆕 追加
+- 🍣 **Restaurant Website Redesign** - ミシュラン寿司店サイト（COOP実務）
+- 🍱 **Meal Planning App** - 献立管理アプリ（チーム開発・vibe coding）
+
 ## 🌟 差別化ポイント
 
 ### 💪 即戦力要素
@@ -38,7 +42,13 @@
 • Wireframing & Prototyping   • Information Architecture  
 • Design Sprints              • User Flows & Journey
 • Design Systems              • Figma, Adobe CC
+• Frontend Development       • vibe coding
 ```
+
+### 🚧 継続的学習・成長
+- ✅ **進行中プロジェクト**: ミシュラン寿司店サイト（COOP実務）+ 献立管理アプリ（チーム開発）
+- ✅ **技術スキル拡張**: デザインから開発まで一貫対応
+- ✅ **実務経験継続**: 卒業後も新たなクライアントワークに挑戦
 
 ## 📈 目標
 **2025年10月帰国 → 2025年12月転職成功**
